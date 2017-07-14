@@ -147,7 +147,7 @@ def main(argv):
 			elif opt in ('-t', '--datetime'):  
 				startTime = arg
 				ts = time.mktime(datetime.datetime.strptime(startTime, "%Y-%m-%d %H:%M:%S").timetuple())
-				tmpFile = strftime("%Y%m%d%H%M%S.csv", gmtime(ts)
+				tmpFile = strftime("%Y%m%d%H%M%S.csv", gmtime(ts))
 				
 			elif opt in ('-p', '--path'):
 				fPath = arg
