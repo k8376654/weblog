@@ -5,7 +5,7 @@
 # Author: Orozco Hsu
 # Organization: DataService   
 
-# python realtime_data_es.py  -t "2017-01-01 05:00:00" -p "/tmp/weblog"
+# python realtime_data_es.py  -t "2017-01-01 05:00:00" -p "/tmp/weblog/log"
 
 import sys, os, getopt
 import csv
