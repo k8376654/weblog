@@ -1,4 +1,7 @@
-# Web log random data generating
+I am doing my homework!!
+
+
+Web log random data generating
 
 ## history log data
 ## realtime log data
